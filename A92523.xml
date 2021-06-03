@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts of Parliament and Committee of Estates in the kingdom of Scotland, concerning the authority and lawfulnesse of the said Parliament, &amp;c. Together with a declaration of the Estates of Parliament in the said kingdom sent to their severall presbyteries. According to the copie printed in Edinburgh.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92523</idno><idno type="EEBO-CITATION">99863561</idno>
+  <idno type="VID">161884</idno>
+  <idno type="EEBO-PROQUEST">2240905140</idno>
+  
+            <idno type="STC">Wing S1170</idno>
+            <idno type="STC">Thomason E449_41</idno>
+            <idno type="PROQUEST">99863561</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863561e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161884)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts of Parliament and Committee of Estates in the kingdom of Scotland, concerning the authority and lawfulnesse of the said Parliament, &amp;c. Together with a declaration of the Estates of Parliament in the said kingdom sent to their severall presbyteries. According to the copie printed in Edinburgh.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Domini 1648. June 27.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament. --  Committee of Estates --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161884:1"/>
+            <p>ACTS OF PARLIAMENT AND COMMITTEE OF ESTATES In the Kingdom of SCOTLAND, Concerning the Authority and law<g ref="char:EOLhyphen"/>fulnesse of the said PARLIAMENT, &amp;c.</p>
+            <p>Together with a <hi>Declaration</hi> of the <hi>Estates</hi> of <hi>Parliament</hi> in the said Kingdom sent to their severall <hi>Presbyteries.</hi>
+            </p>
+            <p>According to the Copie printed in <hi>Edinburgh.</hi>
+            </p>
+            <p>Printed <hi>Anno Domini</hi> 1648. <hi>June</hi> 27.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_and_Declaration_of_Scottish_Parliament">
+            <pb facs="tcp:161884:2"/>
+            <pb n="3" facs="tcp:161884:2"/>
+            <head>ACTS OF PARLIAMENT AND COMMITTEE OF ESTATES, <hi>CONCERNING</hi> The Authority and Lawfulnesse of this <hi>PARLIAMENT,</hi> and the obedience to, and observation of the Acts and Constitutions thereof.</head>
+            <div type="Act_of_Parliament">
+               <opener>
+                  <dateline>At <hi>Edinburgh,</hi>
+                     <date>12. <hi>Iunii</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Committee of Estates, In pursuance of the trust committed to them by the Parlia<g ref="char:EOLhyphen"/>ment, Ordains this Act and Declaration of the Estates of the 10. of <hi>Junii</hi> to be Prin<g ref="char:EOLhyphen"/>ted and Signed by all Members of Parlia<g ref="char:EOLhyphen"/>ment, Noblemen, Barons, Burgesses, and all other Sub<g ref="char:EOLhyphen"/>jects and Inhabitants of this Kingdom in manner follow<g ref="char:EOLhyphen"/>ing: And Ordains the Committees of Warre, and Magi<g ref="char:EOLhyphen"/>strates
+<pb n="4" facs="tcp:161884:3"/>of Burghs, to be carefull to see this Act signed, and an accompt thereof returned, conform to the said Act▪ whereof the tenour followeth.</p>
+               <div type="body_of_Act">
+                  <head>
+                     <hi>At</hi> Edinburgh, 10. <hi>of Iune,</hi> 1648.</head>
+                  <p>THE Estates of Parliament now conveened, consi<g ref="char:EOLhyphen"/>dering how necessary it is to establish their Union in the preservation and maintenance of the Religion, Laws, and Liberties of this Kingdom, of his Majesties Au<g ref="char:EOLhyphen"/>thority; and to prevent all Factions, and Contention, and Divisions which may arise in prejudice thereof from ma<g ref="char:EOLhyphen"/>licious suggestions, and mis-informations of their adver<g ref="char:EOLhyphen"/>saries, Do hereby testifie and declare their Resolution and obligation to acknowledge this present Parliament, To have been, and to be a free and lawfull Parliament: Like<g ref="char:EOLhyphen"/>as, They binde and obliege themselves upon their Ho<g ref="char:EOLhyphen"/>nors and credit, And as they desire to be, and to be holden true Lovers of their Countrey, and of the Religion, Laws, and Liberties thereof, efauldlie and faithfully to the ut<g ref="char:EOLhyphen"/>termost of their power, To joyn and concur with their Persons and Estates, every ane according to their severall Stations and callings in the maintenance of the Freedom and Lawfulnesse of this foresaid Parliament: And in the advancement, furtherance, and assistance of the execution, obedience, and observation of the Acts and Constitutions thereof, as the most fit and necessarie remedies of the by-gone and present evils and distractions of this Kirk and Kingdome; And for the preservation of Religion, Laws, and Liberties thereof, and of his Majesties Authority: And have Ordained and Ordains this present Act to be subscribed by all the Members of Parliament, present and
+<pb n="5" facs="tcp:161884:3"/>absent, Noblemen, Barons, and Burgesses, and all other Subjects and Inhabitants of this Kingdom, in their Shires, and Burghs, as they shall be directed by the Commission<g ref="char:EOLhyphen"/>ers of Parliament left at <hi>Edinburgh,</hi> and to be reported to the Clerk, betwixt and the first of <hi>August</hi> next to come: With certification that such as refuse, or postpone, and delay to subscribe the same, shall be holden as Enemies, and opposites to the common Cause, consisting in the maintenance of the true Reformed Religion, and of the Laws and Liberties of this Kingdom, and his Majesties Authority. Extracted forth out of the Records of Parli<g ref="char:EOLhyphen"/>ament, by me Sir <hi>Alexander Gibson</hi> of <hi>Durie,</hi> Knight; Clerk of his Highnesse Rolls, Register and Counsail, under my signe and subscription Manuall</p>
+                  <closer>
+                     <signed>Alex: Gibson, <hi>Cler. Regist.</hi>
+                     </signed> We underscribers do hereby declare, That we acknow<g ref="char:EOLhyphen"/>ledge the Justice of the Act and Declaration abovewrit<g ref="char:EOLhyphen"/>ten, And do hereby oblige our selves to adhere there<g ref="char:EOLhyphen"/>unto.</closer>
+               </div>
+            </div>
+            <div type="Parliamentary_declaration">
+               <head>A Declaration of the Estates of the Par<g ref="char:EOLhyphen"/>liament of Scotland sent to their severall Presbyteries.</head>
+               <p>THE Estates of Parliament finding by the Petitions presented to them by severall Synods and Presby<g ref="char:EOLhyphen"/>teries, that their present proceedings for the good of Re<g ref="char:EOLhyphen"/>ligion, his Majesties <hi>rescue</hi> and <hi>safety,</hi> and the true peace
+<pb n="6" facs="tcp:161884:4"/>of these Kingdoms is much misconstrued and mis-under<g ref="char:EOLhyphen"/>stood; They have thought fit to declare, for the satisfacti<g ref="char:EOLhyphen"/>on of all such as are satisfiable, that in their undertakings at this time, they shall preferre no earthly consideration to their duties for preserving Religion in <hi>Scotland,</hi> in do<g ref="char:EOLhyphen"/>ctrine, worship, discipline and Government as it is already established; and for endeavouring to settle it in <hi>England</hi> and <hi>Ireland</hi> according to the <hi>Covenant.</hi> And as we can<g ref="char:EOLhyphen"/>not with safety to our consciences and honour, leave and suffer our King to continue in his <hi>base imprisonment:</hi> So our undertakings for him shall be subordinate to Religion and to our duties to God. And in pursuance of these ends as we shall imploy none in our Army but such as have signed the solemne league and Covenant, and such against whom there is no just cause of exception, so we shall asso<g ref="char:EOLhyphen"/>ciate with none but such as will engage themselves to be faithfull to the ends of the Covenant; And our under<g ref="char:EOLhyphen"/>takings shall not be in any wise against the Kingdome of <hi>England,</hi> or to breake the Union betwixt the two Nations, but onely for Reformation and defence of Religion, the honour &amp; happinesse of the King and his Royall Posterity, and the peace and safety of these Kingdoms, against such who have destroyed Religion, and imprisoned our King: And certainly, when they have brought their Intended con<g ref="char:EOLhyphen"/>fusion in <hi>England</hi> to passe, both in Church and State, we cannot hope for safety here, whatsoever their professions may now be. Therefore we are resolved to proceed in this leavy in a vigorous doing of our duties, and we do expect from you and all His Majesties good Subjects a readie obedience to the Commands of the Parliament, and Com<g ref="char:EOLhyphen"/>mitt<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of Estates in pursuance thereof. And the Estates of Parliament Remittees to the Committee of Estates, to
+<pb n="7" facs="tcp:161884:4"/>give forth a more full Declaration of the great endea<g ref="char:EOLhyphen"/>vours the Parliament hath used, and still resolves shall be used, to satisfie the desires of the Commissioners of the Generall Assembly, and to answer their Papers given in this day to the Parliament. And Ordains this Act to be Printed and published, and sent by the Committee of Estates to the severall Presbyteries.</p>
+               <trailer>FINIS:</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
